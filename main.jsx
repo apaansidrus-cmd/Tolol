@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import { Home, Archive, Users, Settings, Search } from 'lucide-react';
-import data from './data.json';
-import './index.css';
+import data from './src/data.json';
+import './src/index.css';
 
 const jamiyyahList = ["AS-SA'IDIYYAH","AL-AZIZIYYAH","AL-ISHOMIYYAH","AL-AZHAR","AL-FATHIYYAH","AL-FALAHIYYAH","AL-ALIYYAH","AL-MUSTHOFA","AL-AQSHO","AZ-ZAMZAMIYYAH"];
 
