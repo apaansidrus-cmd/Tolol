@@ -1,0 +1,12 @@
+{
+  "pelanggar": [
+    {"id":1,"nama":"Ahmad Fauzi","jamiyyah":"AL-MUSTHOFA","kelas":"11","pelanggaran":"Terlambat Sholat","tanggal":"2025-09-10"},
+    {"id":2,"nama":"Budi Santoso","jamiyyah":"AL-AQSHO","kelas":"12","pelanggaran":"Tidak Hadir Ngaji","tanggal":"2025-09-11"},
+    {"id":3,"nama":"Cahyo","jamiyyah":"AL-AZHAR","kelas":"33","pelanggaran":"Main HP Saat Ngaji","tanggal":"2025-09-12"}
+  ],
+  "surat": [
+    {"no":1,"latin":"Al-Fatihah","arab":"الفاتحة","tempat":"Mekah","ayat":7},
+    {"no":2,"latin":"Al-Baqarah","arab":"البقرة","tempat":"Madinah","ayat":286},
+    {"no":3,"latin":"Ali Imran","arab":"آل عمران","tempat":"Madinah","ayat":200}
+  ]
+}
