@@ -1,0 +1,1 @@
+import React from 'react';import ReactDOM from 'react-dom/client';function App(){return(<div style={{textAlign:'center',marginTop:'100px',fontFamily:'Arial'}}><h1>Keamanan HMC</h1><p>Udah Jalan! Gak muter2 lagi 🎉</p></div>)}ReactDOM.createRoot(document.getElementById('root')).render(<App/>)
